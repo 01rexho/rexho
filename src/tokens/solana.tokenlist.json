@@ -1,9 +1,10 @@
+,
 {
   "chainId": 101,
   "address": "2E84UpPqBS6w87NtywYbLdKj4ch1V11pww9FwBAqUtN3",
   "symbol": "CYBORG",
   "name": "CYBORG",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/01rexho/token-list/main/assets/mainnet/2E84UpPqBS6w87NtywYbLdKj4ch1V11pww9FwBAqUtN3/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/01rexho/rexho/main/assets/mainnet/2E84UpPqBS6w87NtywYbLdKj4ch1V11pww9FwBAqUtN3/logo.png",
   "tags": ["memecoin", "community"]
 }
